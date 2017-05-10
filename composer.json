@@ -1,0 +1,16 @@
+{
+    "name": "thomasnegeli/zendmailspecialcharacterfix",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Fixes Zend Mail problem with special characters (e.g. äöü) in email domain names",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "mso/idna-convert": "^1.1.0"
+    },
+    "authors":[
+        {
+            "name":"Thomas Negeli",
+            "email":"ThomasNegeli@gmail.com"
+        }
+    ]
+}
